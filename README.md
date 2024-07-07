@@ -2,6 +2,12 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Demo video of app
+
+## Description
+
+This is simple ecommerce app with online and offline cart functionality when user not have network access cart goes offline and when network reaches to user cart goes online and synchronized the offline data and now all available into cart
+
 ## Get started
 
 1. Install dependencies
