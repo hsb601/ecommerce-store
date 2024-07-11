@@ -4,6 +4,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Demo video of app
 
+https://github.com/hsb601/ecommerce-store/assets/65144195/311e1253-49e1-4d66-9b77-3fcd5a321aa6
+
 ## Description
 
 This is simple ecommerce app with online and offline cart functionality when user not have network access cart goes offline and when network reaches to user cart goes online and synchronized the offline data and now all available into cart
